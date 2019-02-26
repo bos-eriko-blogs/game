@@ -3,7 +3,7 @@ module.exports = {
     title: `Bos Eriko's Game Blog`,
     author: `Bos Eriko`,
     description: `My random thoughts written in words.`,
-    siteUrl: `https://boseriko.com/`,
+    siteUrl: `https://game.boseriko.blog/`,
     social: {
       twitter: `BosGameReviews`,
     },
