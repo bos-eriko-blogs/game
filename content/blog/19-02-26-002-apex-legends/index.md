@@ -1,9 +1,9 @@
 ---
-title: Apex Legends
-date: "2019-02-26T00:00:00.002Z"
-description: This game is good!
+title: Cheaters
+date: "2019-02-28T00:00:00.001Z"
+description: Why do they even do it?
 ---
 
-I've been playing Apex Legends on PS4 lately and, damn, this game is good! It's a BR game similar to PUBG but here you have your own character with a unique skill. There's always a squad of 3 so you can make combos for your team. I haven't played that much compared to others. I haven't even reached level 30 yet. As for the times that I've won and became a champion. I've only done it twice.
+For real, though. Why do people even do it? It takes the fun out of the game. I recently saw this video and it's really annoying. They should stop doing these kind of things. It's a good thing that Apex doesn't rewards kills in the game. If they do that it'll be filled with cheaters more.
 
-!["Apex Legends"](https://image.gameapps.hk/images/201902/07/ffa.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-o7DnrxpzqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
